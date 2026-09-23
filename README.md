@@ -121,3 +121,7 @@ Le query (DA, DSR, …) le risponde conhost stesso, quindi vengono ignorate.
 - Nessun `win32-input-mode`: i tasti vanno come sequenze VT classiche (basta per Claude Code).
 - Niente mouse reporting verso l'applicazione, niente hyperlink OSC 8, niente immagini.
 - Una sola finestra; gli split (pannelli affiancati) sono la prossima cosa da aggiungere.
+
+## Licenza
+
+Rilasciato sotto licenza [MIT](LICENSE).
